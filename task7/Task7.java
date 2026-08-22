@@ -1,6 +1,6 @@
 package task7; 
-import java.util.Scanner; 
 
+import java.util.Scanner; 
 public class Task7 {
 
     public static double add(double num1, double num2) {
