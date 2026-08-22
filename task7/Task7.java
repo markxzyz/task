@@ -1,6 +1,5 @@
-package task7; // Required because your project structure uses a package
-
-import java.util.Scanner; // Fixes "Scanner cannot be resolved to a type"
+package task7; 
+import java.util.Scanner; 
 
 public class Task7 {
 
