@@ -1,3 +1,4 @@
+package task9;
 import static java.lang.Math.*;
 
 public class Task9 {
